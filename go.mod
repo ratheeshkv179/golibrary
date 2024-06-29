@@ -1,3 +1,3 @@
-module github.com/ratheeshkv179/golibrary
+module github.com/ratheeshkv179/golibrary/v2
 
-go 1.22.0
+go 1.22.1
